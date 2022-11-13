@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cdd",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Luca Plian",
+  "license": "ISC",
+  "description": ""
+}
